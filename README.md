@@ -1,6 +1,6 @@
 # C3.ai Energy Management Case Study
 
-![C3.ai Logo](c3ai-logo.png)
+![C3.ai Logo](https://github.com/mukul-bhele/energymanagement/blob/16e1c36829c712c29cf3cc2397c4c8706355ba42/C3.ai%20Image.jpg)
 
 ## About
 
